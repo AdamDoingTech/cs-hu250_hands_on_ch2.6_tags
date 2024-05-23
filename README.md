@@ -39,7 +39,7 @@ or
 $ git show <abbreviated_sha_of_antepenultimate_commit>
 ```
 
-Since the antepenultimate commit is tagged with a lightweight tag (called `v1.0-beta`), the following command will display only the details of the commit, since the lightweight tag has no addition details.
+Since the antepenultimate commit is tagged with a lightweight tag (called `v1.0-beta`), the following command will display only the details of the commit, since the lightweight tag has no additional details.
 ```bash
 $ git show v1.0-beta
 ```
